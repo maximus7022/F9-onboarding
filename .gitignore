@@ -1,0 +1,8 @@
+.terraform
+.terraform.lock.hcl
+*.tfstate
+
+keys/
+*.pem
+
+.DS_Store
